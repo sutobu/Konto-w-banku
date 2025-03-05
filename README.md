@@ -101,6 +101,8 @@ Uproszczony diagram klas UML do omawianego problemu:
 
 W projekcie konsolowym zasymuluj działanie opracowanych kont - w `Main()` napisz sekwencję operacji.
 
+## Krok 5
+
 Zastanów się nad realizacją (w kodzie) następującego scenariusza:
 
 1. Użytkownik ma założone `Konto`
