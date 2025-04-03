@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace ClassLibrary1
+namespace ClassLib
 {
     public class Konto
     {

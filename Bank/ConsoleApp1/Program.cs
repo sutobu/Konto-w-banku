@@ -1,8 +1,8 @@
 ﻿
-using ClassLibrary1;
+using ClassLib;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace ClassLibrary1
+namespace ClassLib
 {
     class Program
     {

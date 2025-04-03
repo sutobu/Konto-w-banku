@@ -1,9 +1,9 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ClassLibrary1;
+using ClassLib;
 using System;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace ClassLibrary1.Tests
+namespace ClassLib.Tests
 {
     [TestClass()]
     public class KontoTests
